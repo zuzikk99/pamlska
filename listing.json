@@ -1,4 +1,4 @@
-Access-Control-Allow-Origin: *
+Header set Access-Control-Allow-Origin 'origin-list'
 
 [
 {
